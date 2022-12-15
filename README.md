@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Mehmet Akif Özgür and I'm a Computer Engineering sophomore student at Hacettepe. I'm from Turkey, living in Ankara. You can find me on [![LinkedIn][3.2]][3].
+My name is Mehmet Akif Özgür and I'm a Computer Engineering junior student at Hacettepe. I'm from Turkey, living in Ankara. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
