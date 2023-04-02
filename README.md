@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=50&lines=Hey!+It's+Mehmet+Akif!;I'm+a+Junior+Computer+Engineering+Student...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=7AF79A&width=600&height=70&lines=Hey!+It's+Mehmet+Akif!;I+am+a+Junior+Computer+Engineering+Student)](https://git.io/typing-svg)
 
 <h3> Here's some facts about me: </h3>
 
