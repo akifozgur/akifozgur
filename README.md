@@ -1,38 +1,65 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there 👋
 
-My name is Mehmet Akif Özgür and I'm a Computer Engineering junior student at Hacettepe. I'm from Turkey, living in Ankara. You can find me on [![LinkedIn][3.2]][3].
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mehmet+Akif!;I'm+a+Junior+Computer+Engineering+Student...)](https://git.io/typing-svg)
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=photoshop&logoColor=white&color=2bbc8a)
+<h3> Here's some facts about me: </h3>
 
-<!-- links to social media icons -->
+- 🔭 I'm currently student at Hacettepe University
+- 👯 I’m looking to collaborate Machine Learning and Deep Learning Projects
+- 💬 Ask me about Programming or Machine Learning
+- 📫 I am also a technical writer at Medium 
+-  📰 Articles: 
+	-	[My All Writings](https://medium.com/@ozgurmehmetakif) 
 
-<!-- icons with padding -->
-
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<p>Connect with me on
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/mehmet-akif-ozgur/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:ozgurmehmetakif7@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://medium.com/@ozgurmehmetakif"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
 
-<!-- links to your social media accounts -->
+<br>
+</p>
 
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/mehmet-akif-ozgur/
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+  
+  ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+</p>
+
+### 👉 Frameworks
+<p align="left"> 
+&emsp;
+  <a href="https://www.tensorflow.org/" target="_blank"> 
+   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://keras.io/" target="_blank"> 
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+  </a>
+</p>
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    
+</p>
 
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<br/>
