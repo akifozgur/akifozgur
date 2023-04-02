@@ -9,7 +9,6 @@ My name is Mehmet Akif Özgür and I'm a Computer Engineering junior student at 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=photoshop&logoColor=white&color=2bbc8a)
 
 <!-- links to social media icons -->
