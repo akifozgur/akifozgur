@@ -7,8 +7,7 @@
 - 🔭 I'm currently student at Hacettepe University
 - 👯 I’m looking to collaborate Machine Learning and Deep Learning Projects
 - 💬 Ask me about Programming or Machine Learning
-- 📫 I am also a technical writer at Medium 
--  📰 Articles: 
+- 📫 I am also a technical writer at Medium
 	-	[My All Writings](https://medium.com/@ozgurmehmetakif) 
 
 <p>Connect with me on
