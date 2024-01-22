@@ -49,6 +49,10 @@
   <a href="https://keras.io/" target="_blank"> 
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
   </a>
+&emsp;
+  <a href="https://keras.io/" target="_blank"> 
+    <img alt="Keras" src="https://img.shields.io/badge/Pytorch-D00000?style=for-the-badge&logo=Pytorch&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
