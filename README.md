@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=7AF79A&width=600&height=70&lines=Hey!+It's+Mehmet+Akif!;I+am+a+Junior+Computer+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=7AF79A&width=600&height=70&lines=Hey!+It's+Mehmet+Akif!;I+am+a+Senior+Computer+Engineering+Student)](https://git.io/typing-svg)
 
 <h3> Here's some facts about me: </h3>
 
-- 🔭 I'm currently student at Hacettepe University
-- 👯 I’m looking to collaborate Machine Learning and Deep Learning Projects
+- 🔭 I'm currently a student at Hacettepe University
+- 👯 I’m looking to collaborate on Machine Learning and Deep Learning Projects
 - 💬 Ask me about Programming or Machine Learning
 - 📫 I am also a technical writer at Medium
 	-	[My All Writings](https://medium.com/@ozgurmehmetakif) 
